@@ -13,4 +13,11 @@ Wanderlust connects people looking to rent out their homes with those seeking ac
 
 # Live: https://wanderlust-xvdf.onrender.com/listings
 
-# Tech Stack Used
+# Tech Stack Used 
+- HTML
+- CSS
+- JavaScript
+- MongoDb
+- Express.js
+- Node.js
+- Bootstrap(Framework)
