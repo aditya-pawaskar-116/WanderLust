@@ -5,4 +5,9 @@ Wanderlust connects people looking to rent out their homes with those seeking ac
 - User Registration and Login  
 - Authentication   
 - Authorization  
--
+- Create and Manage Listings  
+- Listing Details Page  
+- Review System  
+- Display Reviews 
+- Mobile-Friendly UI  
+- Property Locations 
