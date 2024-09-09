@@ -22,5 +22,4 @@ Wanderlust connects people looking to rent out their homes with those seeking ac
 - Node.js
 - Bootstrap(Framework)
 
-# Video🎥
 
