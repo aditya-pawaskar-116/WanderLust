@@ -11,6 +11,7 @@ Wanderlust connects people looking to rent out their homes with those seeking ac
 - Display Reviews 
 - Mobile-Friendly UI
 
-# Live: https://wanderlust-xvdf.onrender.com/listings 
+# Live: 
+https://wanderlust-xvdf.onrender.com/listings 
 
 # Tech Stack Used
