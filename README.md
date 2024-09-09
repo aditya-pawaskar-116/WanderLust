@@ -12,4 +12,4 @@ Wanderlust connects people looking to rent out their homes with those seeking ac
 - Mobile-Friendly UI  
 - Property Locations
 
-# Live: 
+# Live: https://wanderlust-xvdf.onrender.com/listings
