@@ -10,4 +10,6 @@ Wanderlust connects people looking to rent out their homes with those seeking ac
 - Review System  
 - Display Reviews 
 - Mobile-Friendly UI  
-- Property Locations 
+- Property Locations
+
+# Live: 
